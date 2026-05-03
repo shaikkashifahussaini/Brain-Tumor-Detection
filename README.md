@@ -12,8 +12,8 @@ MRI brain tumor classification using 5 ML/DL algorithms with full comparative ev
 | KNN | 74% |
 
 ## Dataset
-- Source: Kaggle Brain Tumor MRI Dataset
-- 3,000+ MRI images | 4 classes: Glioma, Meningioma, No Tumor, Pituitary
+- Source: Kaggle Brain Tumor MRI Dataset  
+- 3,000+ MRI images | 4 classes: Glioma, Meningioma, No Tumor, Pituitary  
 - Split: 80% training / 20% testing (stratified)
 
 ## Tech Stack
@@ -28,4 +28,4 @@ Python | TensorFlow | Keras | OpenCV | Scikit-learn | NumPy | Pandas | Matplotli
 
 ## How to Run
 pip install tensorflow keras opencv-python scikit-learn numpy pandas matplotlib seaborn
-python TumorDisease.ipynb
+jupyter notebook TumorDisease.ipynb
